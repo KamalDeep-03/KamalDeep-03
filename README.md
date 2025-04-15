@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Kamal Deep!
 
 <!--
 **KamalDeep-03/KamalDeep-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
